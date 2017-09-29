@@ -4,7 +4,7 @@
 -- 1. Add Superman's hometown, Smallville, Kansas to the city table. The 
 -- countrycode is 'USA', and population of 45001. (Yes, I looked it up on 
 -- Wikipedia.)
-
+INSERT INTO 
 -- 2. Add Kryptonese to the countrylanguage table. Kryptonese is spoken by 0.0001
 -- percentage of the 'USA' population.
 
